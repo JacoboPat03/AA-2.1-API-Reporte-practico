@@ -1,0 +1,125 @@
+[
+    {
+        "id": "0001",
+        "tipo": "taco",
+        "nombre": "Taco lechon",
+        "precio": 20.00,
+        "ingredientes": {
+            "proteina": {
+                "nombre": "Puerco",
+                "preparacion": "Horneado"
+            },
+            "salsa": {
+                "nombre": "Tomate verde",
+                "picor": "Medio"
+            },
+            "acompañamientos": [
+                {
+                    "nombre": "Cebolla",
+                    "cantidad": "1 cucharada",
+                    "ingredientes": [
+                        "Cebolla blanca",
+                        "Cilantro",
+                        "Naranja",
+                        "Sal"
+                    ]
+                },
+                {
+                    "nombre": "Guacamole",
+                    "cantidad": "2 cucharadas",
+                    "ingredientes": [
+                        "Aguacate",
+                        "Jugo de limon",
+                        "Sal",
+                        "Cebolla",
+                        "Cilantro"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "0002",
+        "tipo": "taco",
+        "nombre": "Tacos al pastor",
+        "precio": 22.00,
+        "ingredientes": {
+            "proteina": {
+                "nombre": "Cerdo",
+                "preparacion": "Trompo (adobado y asado vertical)"
+            },
+            "salsa": {
+                "nombre": "Salsa roja",
+                "picor": "Alto"
+            },
+            "acompañamientos": [
+                {
+                    "nombre": "Piña",
+                    "cantidad": "2 cubos"
+                },
+                {
+                    "nombre": "Cebolla",
+                    "cantidad": "1 cucharada",
+                    "ingredientes": [
+                        "Cebolla morada",
+                        "Cilantro",
+                        "Limón",
+                        "Sal"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "0003",
+        "tipo": "taco",
+        "nombre": "Tacos de cabeza de res",
+        "precio": 18.00,
+        "ingredientes": {
+            "proteina": {
+                "nombre": "Cabeza de res",
+                "preparacion": "Cocida"
+            },
+            "salsa": {
+                "nombre": "Salsa verde cruda",
+                "picor": "Bajo"
+            },
+            "acompañamientos": [
+                {
+                    "nombre": "Limones",
+                    "cantidad": "2 gajos"
+                },
+                {
+                    "nombre": "Salsa borracha",
+                    "cantidad": "1 cucharada"
+                }
+            ]
+        }
+    },
+    {
+        "id": "0004",
+        "tipo": "taco",
+        "nombre": "Tacos de cochinita",
+        "precio": 21.00,
+        "ingredientes": {
+            "proteina": {
+                "nombre": "Cerdo (cochinita)",
+                "preparacion": "Pibil (achiote y naranja)"
+            },
+            "salsa": {
+                "nombre": "Salsa xnipec",
+                "picor": "Muy alto"
+            },
+            "acompañamientos": [
+                {
+                    "nombre": "Cebolla morada encurtida",
+                    "cantidad": "1 cucharada"
+                },
+                {
+                    "nombre": "Chile habanero",
+                    "cantidad": "1 aro (opcional)"
+                }
+            ]
+        }
+    }
+]
