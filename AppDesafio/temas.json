@@ -1,0 +1,99 @@
+{
+    "temas": [
+        {
+            "id": 1,
+            "nombre": "Programación Web",
+            "descripcion": "Introducción al desarrollo de aplicaciones web con HTML, CSS y JavaScript.",
+            "palabrasClaves": ["HTML", "CSS", "JavaScript", "DOM", "API"],
+            "practicas": [
+                {
+                    "titulo": "Primera página web",
+                    "descripcion": "Crea una página HTML básica con estructura semántica y estilos CSS.",
+                    "objetivo": "Familiarizarse con los elementos básicos de HTML y CSS."
+                },
+                {
+                    "titulo": "Manipulación del DOM",
+                    "descripcion": "Implementa un script que modifique dinámicamente el contenido de una página web.",
+                    "objetivo": "Aprender a interactuar con el DOM usando JavaScript."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Bases de Datos",
+            "descripcion": "Fundamentos de diseño, implementación y gestión de sistemas de bases de datos relacionales.",
+            "palabrasClaves": ["SQL", "modelo relacional", "normalización", "consultas", "transacciones"],
+            "practicas": [
+                {
+                    "titulo": "Diseño de base de datos",
+                    "descripcion": "Crea un modelo entidad-relación para un sistema propuesto y normalízalo hasta 3FN.",
+                    "objetivo": "Aprender los principios de diseño de bases de datos relacionales."
+                },
+                {
+                    "titulo": "Consultas SQL",
+                    "descripcion": "Implementa 15 consultas SQL de complejidad variada sobre una base de datos proporcionada.",
+                    "objetivo": "Dominar el lenguaje SQL para manipulación de datos."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Fundamentos de Investigación",
+            "descripcion": "Metodologías y técnicas básicas para la realización de proyectos de investigación.",
+            "palabrasClaves": ["método científico", "hipótesis", "revisión bibliográfica", "metodología", "redacción académica"],
+            "practicas": [
+                {
+                    "titulo": "Protocolo de investigación",
+                    "descripcion": "Elabora un protocolo de investigación completo sobre un tema de tu elección.",
+                    "objetivo": "Aprender a estructurar formalmente un proyecto de investigación."
+                },
+                {
+                    "titulo": "Revisión sistemática",
+                    "descripcion": "Realiza una revisión sistemática de literatura sobre un tema específico.",
+                    "objetivo": "Desarrollar habilidades de búsqueda y síntesis de información académica."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Programación Orientada a Objetos",
+            "descripcion": "Paradigma de programación basado en objetos, clases y sus relaciones, con énfasis en reutilización de código.",
+            "palabrasClaves": ["clases", "objetos", "herencia", "polimorfismo", "encapsulamiento"],
+            "practicas": [
+                {
+                    "titulo": "Modelado de clases",
+                    "descripcion": "Diseña un diagrama de clases UML para un sistema propuesto implementando los principios OO.",
+                    "objetivo": "Aprender a modelar sistemas usando paradigma orientado a objetos."
+                },
+                {
+                    "titulo": "Implementación OO",
+                    "descripcion": "Codifica en un lenguaje OO (Java/C#/Python) el modelo de clases diseñado previamente.",
+                    "objetivo": "Aplicar los conceptos teóricos en la implementación práctica."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "Inteligencia Artificial",
+            "descripcion": "Estudio de algoritmos y sistemas que exhiben comportamiento inteligente, aprendiendo de datos y tomando decisiones.",
+            "palabrasClaves": ["machine learning", "redes neuronales", "deep learning", "procesamiento de lenguaje natural", "visión por computadora"],
+            "practicas": [
+                {
+                    "titulo": "Primer modelo de ML",
+                    "descripcion": "Implementa un modelo de regresión lineal para predecir valores basados en un conjunto de datos simple.",
+                    "objetivo": "Comprender los fundamentos del aprendizaje supervisado."
+                },
+                {
+                    "titulo": "Clasificación de imágenes",
+                    "descripcion": "Entrena una red neuronal convolucional para clasificar imágenes del conjunto de datos MNIST.",
+                    "objetivo": "Familiarizarse con redes neuronales y frameworks como TensorFlow o PyTorch."
+                },
+                {
+                    "titulo": "Chatbot básico",
+                    "descripcion": "Crea un chatbot simple usando procesamiento de lenguaje natural (NLP) con Python.",
+                    "objetivo": "Introducción a las técnicas básicas de NLP."
+                }
+            ]
+        }
+    ]
+}
